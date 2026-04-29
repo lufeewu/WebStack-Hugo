@@ -23,3 +23,11 @@
       logo: github.png
       url: https://github.com/
       description: GitHub 开源社区
+
+- taxonomy: 开发设计
+  icon: fas fa-tools fa-lg
+  links: 
+    - title: nginx-ui
+      logo: nginx-ui.png
+      url: ../nginxui/
+      description: nginx-ui 在线管理工具
